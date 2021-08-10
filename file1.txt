@@ -1,6 +1,3 @@
 Hello
 This is file1
-Anusha here
-Anusha lives in bangalore
-anusha want to go to US
-Anusha is not feeling well
+
