@@ -1,5 +1,2 @@
 Hello
-This is file1
-Anusha here
-Anusha lives in bangalore
-anusha want to go to US
+conflict in child2
